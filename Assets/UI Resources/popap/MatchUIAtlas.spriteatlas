@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MatchUIAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: e717912cf227ea64e93ddd4fa8c25f48, type: 3}
+    - {fileID: 2800000, guid: 1520b685ab48f3d4eb700e779d7148c4, type: 3}
+    - {fileID: 2800000, guid: 2c5dbd0b55054ae47923cac0afbeae37, type: 3}
+    - {fileID: 2800000, guid: ee9157bdc2aad134fbdc2884586fa7df, type: 3}
+    - {fileID: 2800000, guid: dc2c0c4a93613e0479e9712f66f3bba5, type: 3}
+    - {fileID: 2800000, guid: 8caa31034a15d874188371914900ef5d, type: 3}
+    - {fileID: 2800000, guid: 076c518ea0abfd640b4c07cb8a136ee3, type: 3}
+    totalSpriteSurfaceArea: 1268884
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 8caa31034a15d874188371914900ef5d, type: 3}
+  - {fileID: 21300000, guid: 1520b685ab48f3d4eb700e779d7148c4, type: 3}
+  - {fileID: 21300000, guid: dc2c0c4a93613e0479e9712f66f3bba5, type: 3}
+  - {fileID: 21300000, guid: 2c5dbd0b55054ae47923cac0afbeae37, type: 3}
+  - {fileID: 21300000, guid: e717912cf227ea64e93ddd4fa8c25f48, type: 3}
+  - {fileID: 21300000, guid: ee9157bdc2aad134fbdc2884586fa7df, type: 3}
+  - {fileID: 21300000, guid: 076c518ea0abfd640b4c07cb8a136ee3, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - back copy
+  - button0
+  - arrow
+  - backDrop
+  - button1
+  - frameDrop
+  - back 2
+  m_RenderDataMap: {}
+  m_Tag: MatchUIAtlas
+  m_IsVariant: 0
